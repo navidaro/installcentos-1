@@ -2,9 +2,9 @@
 
 ## see: https://www.youtube.com/watch?v=-OOnGK-XeVY
 
-export DOMAIN=${DOMAIN:="$(curl ipinfo.io/ip).nip.io"}
-export USERNAME=${USERNAME:="$(whoami)"}
-export PASSWORD=${PASSWORD:=password}
+export DOMAIN=${DOMAIN:="console.dominio.nip.io"}
+export USERNAME=${USERNAME:="irojas"}
+export PASSWORD=${PASSWORD:=""openshift}
 export VERSION=${VERSION:="v3.7.0"}
 
 export SCRIPT_REPO=${SCRIPT_REPO:="https://raw.githubusercontent.com/gshipley/installcentos/master"}

@@ -2,7 +2,7 @@
 
 ## see: https://www.youtube.com/watch?v=-OOnGK-XeVY
 
-export DOMAIN=${DOMAIN:="console.dominio.nip.io"}
+export DOMAIN=${DOMAIN:="dominio.nip.io"}
 export USERNAME=${USERNAME:="irojas"}
 export PASSWORD=${PASSWORD:=""openshift}
 export VERSION=${VERSION:="v3.7.0"}

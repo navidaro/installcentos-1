@@ -4,7 +4,7 @@
 
 export DOMAIN=${DOMAIN:="dominio.nip.io"}
 export USERNAME=${USERNAME:="irojas"}
-export PASSWORD=${PASSWORD:=""openshift}
+export PASSWORD=${PASSWORD:="openshift"}
 export VERSION=${VERSION:="v3.7.0"}
 
 export SCRIPT_REPO=${SCRIPT_REPO:="https://raw.githubusercontent.com/gshipley/installcentos/master"}
